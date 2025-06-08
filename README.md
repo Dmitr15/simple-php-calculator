@@ -27,4 +27,21 @@
 #### - Composer 2.8.9 or higher (recommended for dependency management)
 
 ### Installation
-#### Clone the repository:
+### Clone the repository:
+#### - git clone git@github.com:Dmitr15/simple-php-calculator.git
+#### - cd simple-php-calculator
+
+### Install dependencies:
+#### - composer install
+
+### Light mode interface
+![image](https://github.com/user-attachments/assets/dc8d1104-f7af-4f26-8e9e-674514f7ebc4)
+
+### Dark mode interface
+![image](https://github.com/user-attachments/assets/fbff90d3-eb47-4f99-bc64-6e0cb50239c4)
+
+### Interface with correct answer
+![image](https://github.com/user-attachments/assets/73f1ff77-469a-45a2-aa8b-0ef65a6a4175)
+
+### Interface with error
+![image](https://github.com/user-attachments/assets/e7b577be-1026-4de0-b4d9-f4440910e565)
